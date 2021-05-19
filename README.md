@@ -146,7 +146,6 @@ pry(main)> zoo.add_animal(animal_4)
 
 pry(main)> zoo.animals_older_than(250)
 #=> []
-
 pry(main)> zoo.animals_older_than(100)
 #=> [#<Animal:0x00007fccd383c2d0...>, #<Animal:0x00007fccd297dc30...>]
 
